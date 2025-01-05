@@ -20,6 +20,7 @@
 
 Built with Next.js for handling the user interface, Three.js for rendering 3D elements, Framer motion for beautiful animations, and styled with TailwindCSS, this portfolio demonstrates the developer's skills in a unique manner that creates a lasting impact.
 
+
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
 - Next.js
